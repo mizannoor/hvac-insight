@@ -138,6 +138,6 @@ This project is supported by studies on HVAC IoT systems and MQTT integration. F
 
 ## 📃 License
 
-This project is part of academic research for the Master of Computer Science (Mobile Software Development) at Universiti Teknikal Malaysia Melaka (UTeM).
+This project is part of academic research for the Master of Computer Science (Mobile Software Development) at Faculty of Information Technology & Communications (FTMK) Universiti Teknikal Malaysia Melaka (UTeM).
 
 ---
